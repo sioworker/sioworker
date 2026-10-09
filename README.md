@@ -11,20 +11,10 @@ i think that everything is nicer to use from a terminal.
 | [**talentnix**](https://github.com/sioworker/talentnix) | fixing stuff for talent (fork) |
 | [**dotfiles**](https://github/sioworker/dotfiles) | self-explanatory |
 
-## sio-cli in 10 seconds
-
-```sh
-curl -fsSL https://raw.githubusercontent.com/sioworker/sio-cli/refs/heads/main/install.sh | sh
-sio config hosts add szkopul szkopui.edu.pl
-sio tree
-sio up <contest> abc.cpp
-sio subs <contest>
-```
-
-also on nix: `nix run github:sioworker/sio-cli -- info`
-
 ## contact
 
 📫 sioworkers.united@gmail.com
+(WIP: me@bigos.opik.net)
+
 
 📫 discord: sioworker
